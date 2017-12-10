@@ -1,6 +1,6 @@
 # Jenkins 服务器构建
 
-## 在所有经过的自动化构建项目中，使用过 GoCD , TeamCity , Jenkins, 三者对比，至少现在选用了 Jenkins 理由有下面几条
+#### 在所有经过的自动化构建项目中，使用过 GoCD , TeamCity , Jenkins, 三者对比，至少现在选用了 Jenkins 理由有下面几条
 * Jenkins 开源，
 * Jenkins 可以创建无数个 Slave 为你工作，而不像 TC 一样，想要增加 Slave 就必须要升级为商业版
 * Jenkins Slave 启动工作不像 GoCD 一样需要花费不知名的若干分钟的 不知道在做什么的准备时间
@@ -33,4 +33,4 @@
 `rpm -Uvh rpm包名`
 
 #### 升级 Jenkins 时，最好选用长期稳定版本， 节省踩坑的时间，可根据自己需求惊醒升级
-#### [下载地址：]() [https://pkg.jenkins.io/redhat-stable/】
+#### (下载地址：) [https://pkg.jenkins.io/redhat-stable/】
