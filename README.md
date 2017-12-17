@@ -1,4 +1,4 @@
-
+ctrl+t
 ### 为什么选择 Jenkins 及 如何使用
 ---
 ### 一、选择 Jenkins 的原因
